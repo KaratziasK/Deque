@@ -8,7 +8,7 @@ Circular Array Implementation: Uses a circular array to store elements, optimizi
 Dynamic Resizing: Automatically adjusts the capacity of the array to handle more elements or reduce memory usage when elements are removed.
 Iterators: Provides iterators to traverse the deque from front to back and back to front.
 Exception Handling: Throws appropriate exceptions for invalid operations such as accessing elements from an empty deque or modifying the deque during iteration.
-Project Structure
+## Project Structure
 The project consists of the following main components:
 
 DeQueue Interface: Defines the operations supported by a double-ended queue.
