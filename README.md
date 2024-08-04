@@ -8,6 +8,7 @@ This project is a Java implementation of a double-ended queue (Deque) using the 
 - **Kyriakos Karatzias**
 - **Christos Kalamatianos**
 - **Xenofontas Marketakis**
+
 This project was developed as part of our coursework in the Data Structures class.
 
 ## Class Description
