@@ -1,5 +1,5 @@
 # CircularArrayQueue Project
-**NOTE:** This project was part of a university course on Operating Systems at Harokopio University of Athens. This project was a collaborative effort with my fellow students:
+**NOTE:** This project was part of a university course on Data Structures at Harokopio University of Athens. This project was a collaborative effort with my fellow students:
 - Christos Kalamatianos
 - Xenofontas Marketakis
 
