@@ -1,7 +1,7 @@
 # CircularArrayQueue Project
 **NOTE:** This project was part of a university course on Data Structures at Harokopio University of Athens. This project was a collaborative effort with my fellow students:
-- Christos Kalamatianos
-- Xenofontas Marketakis
+- **Christos Kalamatianos**
+- **Xenofontas Marketakis**
 
 ## Overview
 The CircularArrayQueue project is a Java-based implementation of a double-ended queue (deque) using a circular array. This project provides a robust and efficient data structure that supports constant-time insertions and deletions from both ends of the deque. The implementation includes features such as automatic resizing of the underlying array and support for iterators to traverse the deque.
